@@ -2,7 +2,7 @@
 
 # Portfolio-Data-Analysis
 Salut, \
-Vous avez la possibilité de visualiser des projets de Data Science très interessants que j'ai effectué sur Power BI. Pour cela consultez le fichier **présentation_projets** ci_dessus. \
+Vous avez la possibilité de visualiser des projets de Data Science très interessants que j'ai effectué sur Power BI. Pour cela consultez le fichier **présentation_projets** ci_dessus.
 
 
 Hello, \
