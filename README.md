@@ -1,6 +1,6 @@
 # Projets-Data-Science-sur-Python
 
-# Portfolio-Data-Analysis
+# Portfolio-Data-Science
 Salut, \
 Vous avez la possibilité de visualiser des projets de Data Science très interessants que j'ai effectué sur Python. Pour cela consultez le fichier **Aide_departement_marketing_pour_banque** ci_dessus.
 
